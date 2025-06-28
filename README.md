@@ -95,6 +95,4 @@ Essa ferramenta é voltada para fins educacionais e laboratórios controlados. N
 
 Desenvolvido por **\[00111000]**
 
-LinkedIn | GitHub | Email
-
 ---
