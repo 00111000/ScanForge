@@ -5,7 +5,7 @@ Ferramenta para o uso na área de redes. Projeto em desenvolvimento
 
 ---
 
-## 🚀 Funcionalidades principais
+## 💻 Funcionalidades principais
 
 * ✅ Scanner de rede por ping (`ping_sweep`)
 * ✅ Verificação de DNS (`dns_check`)
@@ -21,7 +21,7 @@ Ferramenta para o uso na área de redes. Projeto em desenvolvimento
 
 ---
 
-## 🔧 Requisitos
+## ⚙️ Requisitos
 
 * Python 3.8+
 * Permissões de administrador para algumas funções (sniffer, ARP)
@@ -39,7 +39,7 @@ Dependências principais:
 
 ---
 
-## 📁 Estrutura do projeto
+## 🗜️ Estrutura do projeto
 
 ```
 punktool/
@@ -61,7 +61,7 @@ punktool/
 
 ---
 
-## 🔄 Como executar
+## 💿 Como executar
 
 1. Clone o repositório:
 
@@ -85,7 +85,7 @@ python3 main.py
 
 ---
 
-## ⚡ Uso educacional
+## ⚠️ Uso educacional
 
 Essa ferramenta é voltada para fins educacionais e laboratórios controlados. Não use em redes que você não tem autorização.
 
